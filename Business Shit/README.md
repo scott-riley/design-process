@@ -1,5 +1,5 @@
 # Business Shit
-This stuff is fucking dull but it's necessary.
+This stuff is fucking dull but it's necessary. If you use/edit the contract without having your lawyer look it over and somehow get fucked over then I accept absolutely 0 responsibility. Also [get insured for fuck's sake](https://withjack.co.uk)
 
 ## Notion Links
 - [Basic Client 'CRM'](https://www.notion.so/0d564a6d825e4fe7895978290f68dde3?v=8426628b83bb4f708ae8ca5ce00d94aa) - I use this to track potential leads before they go into the 'okay sick let's work together' phase. Generally people email and want shit, and I use this to list them and the shit they want.
